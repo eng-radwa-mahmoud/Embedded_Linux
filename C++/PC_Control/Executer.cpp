@@ -31,7 +31,4 @@ void Executer::ExecuteCommand(std::string command,std::string &responses)
 
             std::cout << responses << std::endl;
             }
-
-
-
 }

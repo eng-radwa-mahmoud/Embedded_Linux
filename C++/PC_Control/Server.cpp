@@ -32,15 +32,6 @@ void Server::Initialize( int Port)
     }
 }
 
-void Server::RadData(std::stringstream &buf)
-{
-    char* chr;  
-    auto bytesRead = read(connection, chr, 100);
-    buf << chr;
-    bytesRead = read(connection, chr, 100);
-    buf << chr;     
-
-}
 
 bool Server::AcceptConnection()
 {
@@ -52,6 +43,17 @@ bool Server::AcceptConnection()
 
     }
     return true;
+}
+
+
+void Server::RadData(std::stringstream &buf)
+{
+    char* chr;  
+    auto bytesRead = read(connection, chr, 100);
+    buf << chr;
+    bytesRead = read(connection, chr, 100);
+    buf << chr;     
+
 }
 
 std::string Server::ParseHTTPPostRequest(std::stringstream & buffer)
