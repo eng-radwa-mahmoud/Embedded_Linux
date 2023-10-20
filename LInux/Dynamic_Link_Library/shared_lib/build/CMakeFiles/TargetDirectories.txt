@@ -1,0 +1,7 @@
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/build/CMakeFiles/install/strip.dir
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/build/CMakeFiles/install/local.dir
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/build/CMakeFiles/install.dir
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/build/CMakeFiles/list_install_components.dir
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/build/CMakeFiles/rebuild_cache.dir
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/build/CMakeFiles/edit_cache.dir
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/build/CMakeFiles/Control_PC.dir

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/Executer.cpp
+Executer.hpp
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/Executer.hpp
+
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/Executer.hpp
+iostream
+-
+map
+-
+
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/Server.cpp
+Server.hpp
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/Server.hpp
+iostream
+-
+unistd.h
+-
+sstream
+-
+vector
+-
+
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/shared_lib/Server.hpp
+iostream
+-
+string
+-
+netinet/in.h
+-
+

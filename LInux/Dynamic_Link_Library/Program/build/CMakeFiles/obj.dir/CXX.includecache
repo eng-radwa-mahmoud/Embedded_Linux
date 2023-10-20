@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/LInux/Dynamic_Link_Library/Program/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+signal.h
+-
+sys/wait.h
+-
+Executer.hpp
+-
+Server.hpp
+-
+

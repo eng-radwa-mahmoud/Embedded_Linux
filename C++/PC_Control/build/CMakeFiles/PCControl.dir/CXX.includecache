@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/C++/PC_Control/Executer.cpp
+Executer.hpp
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/C++/PC_Control/Executer.hpp
+
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/C++/PC_Control/Executer.hpp
+iostream
+-
+map
+-
+
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/C++/PC_Control/Server.cpp
+Server.hpp
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/C++/PC_Control/Server.hpp
+iostream
+-
+unistd.h
+-
+sstream
+-
+vector
+-
+
+/home/radwa/Embedded_LInux_Tasks/Embedded_Linux/C++/PC_Control/Server.hpp
+iostream
+-
+string
+-
+netinet/in.h
+-
+

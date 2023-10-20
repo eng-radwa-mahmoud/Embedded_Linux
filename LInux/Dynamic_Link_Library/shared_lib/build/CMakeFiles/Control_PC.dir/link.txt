@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libControl_PC.so -o libControl_PC.so CMakeFiles/Control_PC.dir/Executer.cpp.o CMakeFiles/Control_PC.dir/Server.cpp.o 

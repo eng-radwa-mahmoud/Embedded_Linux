@@ -1,0 +1,3 @@
+/usr/lib/libControl_PC.so
+/usr/local/include/Server.hpp
+/usr/local/include/Executer.hpp

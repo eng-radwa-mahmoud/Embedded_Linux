@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/obj.dir/main.cpp.o  -o obj  /usr/lib/libControl_PC.so 
