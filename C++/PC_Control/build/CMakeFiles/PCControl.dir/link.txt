@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libPCControl.so -o libPCControl.so CMakeFiles/PCControl.dir/Executer.cpp.o CMakeFiles/PCControl.dir/Server.cpp.o 
