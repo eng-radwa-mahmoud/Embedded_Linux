@@ -1,3 +1,9 @@
+                    /**************************************************************
+                    *   Author: Radwa Mahmoud                                     *
+                    *   Date  : 20/10/2023                                        *   
+                    *   Task  : Cmakefile to create PC_Control as shared library  *
+                    **************************************************************/
+
 cmake_minimum_required(VERSION 3.16.3)
 project (pc_control)
 
