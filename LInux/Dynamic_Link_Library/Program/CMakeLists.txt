@@ -1,9 +1,9 @@
 
-                                    /*****************************************************************
-                                    *   Author: Radwa Mahmoud                                        *
-                                    *   Date  : 20/10/2023                                           *
-                                    *   Task  : Cmake to link our app with Control_PC shared library *
-                                    *****************************************************************/
+                                    /*****************************************************************************
+                                    *   Author: Radwa Mahmoud                                                    *
+                                    *   Date  : 20/10/2023                                                       *
+                                    *   Task  : Cmake to link our app with our created Control_PC shared library *
+                                    *****************************************************************************/
 
 cmake_minimum_required(VERSION 3.16.3)
 project (program)
